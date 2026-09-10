@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:foaf="http://xmlns.com/foaf/0.1/"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  
+  <foaf:Person rdf:about="http://example.com/person/me">
+    <foaf:name>luluzsx</foaf:name>
+    <foaf:title>Sir</foaf:title>
+    <foaf:givenName>Lucas</foaf:givenName>
+    <foaf:familyName>Richard</foaf:familyName>
+    <foaf:mbox rdf:resource="mailto:mluluzsx@laposte.net"/>
+    <foaf:workplaceHomepage rdf:resource="https://cogelec.fr"/>
+    <foaf:homepage rdf:resource="https://github.com/luluzsx"/>
+    <foaf:depiction rdf:resource="http://example.com/photo.jpg"/>
+    <foaf:bio>Hello, I am Lucas Richard!</foaf:bio>
+    <foaf:interests>I like programming and web development.</foaf:interests>
+  </foaf:Person>
+
+</rdf:RDF>
